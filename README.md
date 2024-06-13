@@ -1,6 +1,8 @@
 # Xfce-x11-termux-Android
 Instalasi:
-- bash i.sh
+- ekstrak file menyala.zip
+- install aplikasi nya
+- buka termuxnya lalu ketik bash i.sh
 
 jika tidak bisa masuk salin teks berikut: 
 
